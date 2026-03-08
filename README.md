@@ -25,7 +25,7 @@ Here are some of the key platforms and applications I have developed and deploye
 
 | Project Name | Description | Live Link |
 | :--- | :--- | :--- |
-| **Multi-Tenant SaaS CRM** | A comprehensive customer relationship management platform tailored for real estate clients. Features custom subdomain routing (e.g., client.domain.com), secure authentication, and real-time data syncing. | [🔗 Visit CRM Platform](crm.mintagemarkcomm.com) |
+| **Multi-Tenant SaaS CRM** | A comprehensive customer relationship management platform tailored for real estate clients. Features custom subdomain routing (e.g., client.domain.com), secure authentication, and real-time data syncing. | [🔗 Visit CRM Platform]((https://crm.mintagemarkcomm.com/)) |
 | **Workflow Automation Engine** | An integrated solution connecting core business tools via Pabbly and custom REST APIs to automate lead generation and marketing workflows. | [🔗 View Project](crm.mintagemarkcomm.com) *(Replace # with actual link)* |
 | **[Project Name 3]** | *[Brief 1-2 sentence description of what this website does and the tech used to build it.]* | [🔗 Visit Website](#) *(Replace # with actual link)* |
 | **[Project Name 4]** | *[Brief 1-2 sentence description of what this website does and the tech used to build it.]* | [🔗 Visit Website](#) *(Replace # with actual link)* |
